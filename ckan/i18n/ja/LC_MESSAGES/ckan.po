@@ -3144,17 +3144,17 @@ msgstr ""
 
 #: ckan/templates/home/snippets/promoted.html:8
 msgid "Welcome to CKAN"
-msgstr "CKANへようこそ"
+msgstr "秋田農林水産オープンデータへようこそ"
 
 #: ckan/templates/home/snippets/promoted.html:10
 msgid ""
 "This is a nice introductory paragraph about CKAN or the site in general. We "
 "don't have any copy to go here yet but soon we will"
-msgstr "これはCKANあるいはサイト全般についての良い紹介文です。我々はまだここへ行くためのコピーがありませんが、すぐに行くでしょう。"
+msgstr "秋田の農林水産に関するデータを公開するオープンデータサイトです。"
 
 #: ckan/templates/home/snippets/promoted.html:19
 msgid "This is a featured section"
-msgstr "これは特徴のセクションです"
+msgstr "秋田農林水産オープンデータ"
 
 #: ckan/templates/home/snippets/search.html:2
 msgid "E.g. environment"
