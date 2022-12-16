@@ -85,6 +85,15 @@
       </style>
       {%- endif %}
     {% endblock %}
+    <!-- Google tag (gtag.js) -->
+      <script async src="https://www.googletagmanager.com/gtag/js?id=G-GT3N1VVY5X"></script>
+      <script>
+	window.dataLayer = window.dataLayer || [];
+	function gtag(){dataLayer.push(arguments);}
+	gtag('js', new Date());
+
+	gtag('config', 'G-GT3N1VVY5X');
+      </script>
   </head>
 
   {# Allows custom attributes to be added to the <body> tag #}
